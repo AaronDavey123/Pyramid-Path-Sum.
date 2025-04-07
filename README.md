@@ -1,8 +1,8 @@
-# Pyramid-Path-Sum.
+## Pyramid-Path-Sum.
 This script solves a classic problem involving a pyramid-like structure of numbers where you are tasked with finding the maximum path sum from the top of the pyramid to the bottom. Below is a detailed explanation of the code:
 
 
-## Code Breakdown:
+## 🛠️ Code Breakdown:
 
 ### 1. Imports
 ```python
@@ -123,7 +123,7 @@ def test_large_pyramid(self):
         self.assertEqual(actual_result, expected_result)
 ```
 
-### Purpose:
+### 🚀 Purpose:
 This algorithm is commonly used to solve problems where the goal is to find the optimal path through a triangular or pyramid-like structure, such as the "triangle" problem in algorithmic challenges.
 
 
